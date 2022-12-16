@@ -16,7 +16,11 @@
   "bugs": {
     "url": "https://github.com/overlookmotel/zip-random-access/issues"
   },
-  "dependencies": {},
+  "dependencies": {
+    "is-it-type": "^5.1.2",
+    "simple-invariant": "^2.0.1",
+    "yazl": "^2.5.1"
+  },
   "devDependencies": {
     "@overlookmotel/eslint-config": "^10.1.0",
     "@overlookmotel/eslint-config-jest": "^6.0.1",
